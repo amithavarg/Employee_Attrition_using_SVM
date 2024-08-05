@@ -1,0 +1,32 @@
+2024-08-04 22:00:46,644:INFO:Data loaded successfully.
+2024-08-04 22:00:46,659:INFO:Unnecessary columns dropped.
+2024-08-04 22:00:46,671:INFO:Dummy variables created.
+2024-08-04 22:00:46,672:INFO:OverTime and Attrition mapped.
+2024-08-04 22:01:26,656:INFO:Data loaded successfully.
+2024-08-04 22:01:26,670:INFO:Unnecessary columns dropped.
+2024-08-04 22:01:26,681:INFO:Dummy variables created.
+2024-08-04 22:01:26,682:INFO:OverTime and Attrition mapped.
+2024-08-04 22:01:29,448:INFO:Data scaled successfully.
+2024-08-04 22:01:29,450:INFO:Data split into train and test sets.
+2024-08-04 22:01:29,471:INFO:Logistic Regression model trained successfully.
+2024-08-04 22:01:29,771:INFO:Model evaluation completed.
+2024-08-04 22:01:30,000:INFO:SVM model with linear kernel trained successfully.
+2024-08-04 22:01:30,301:INFO:Model evaluation completed.
+2024-08-04 22:01:30,360:INFO:SVM model with rbf kernel trained successfully.
+2024-08-04 22:01:30,782:INFO:Model evaluation completed.
+2024-08-04 22:01:30,833:INFO:SVM model with poly kernel trained successfully.
+2024-08-04 22:01:31,147:INFO:Model evaluation completed.
+2024-08-04 23:35:06,108:INFO:Data loaded successfully.
+2024-08-04 23:35:06,158:INFO:Unnecessary columns dropped.
+2024-08-04 23:35:06,176:INFO:Dummy variables created.
+2024-08-04 23:35:06,177:INFO:OverTime and Attrition mapped.
+2024-08-04 23:35:09,274:INFO:Data scaled successfully.
+2024-08-04 23:35:09,279:INFO:Data split into train and test sets.
+2024-08-04 23:35:09,311:INFO:Logistic Regression model trained successfully.
+2024-08-04 23:35:09,594:INFO:Model evaluation completed.
+2024-08-04 23:35:09,828:INFO:SVM model with linear kernel trained successfully.
+2024-08-04 23:35:10,155:INFO:Model evaluation completed.
+2024-08-04 23:35:10,217:INFO:SVM model with rbf kernel trained successfully.
+2024-08-04 23:35:10,641:INFO:Model evaluation completed.
+2024-08-04 23:35:10,695:INFO:SVM model with poly kernel trained successfully.
+2024-08-04 23:35:11,006:INFO:Model evaluation completed.
